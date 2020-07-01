@@ -1,2 +1,1 @@
-# Web-Portfolio
-This a my web portfolio.
+# Timer-app
